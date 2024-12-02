@@ -1,1 +1,2 @@
 # Coffee-shop-sales
+Developed a comprehensive sales report for a nationwide franchise coffee shop, analyzing and identifying reasons for underperformance compared to other stores. Enhanced the report by adding critical insights to clarify data and provide actionable recommendations. Additionally, created an intuitive dashboard to effectively present the sales findings, facilitating better decision-making and strategies to improve overall sales performance. 
